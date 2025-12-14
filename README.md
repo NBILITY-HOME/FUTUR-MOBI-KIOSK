@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Vision & Révolution
-Alors que le marché sature de solutions MDM (Mobile Device Management) basées sur des modèles archaïques "Login + Mot de passe", **Mobi-Kiosk** brise les codes. Nous ne gérons pas des *comptes*, nous certifions des *identités*.
+Alors que le marché sature de solutions EMM/MDM/UEM (Mobile Device Management) basées sur des modèles archaïques "Login + Mot de passe", **Mobi-Kiosk** brise les codes. Nous ne gérons pas des *comptes*, nous certifions des *identités*.
 
 L'ère de la simple authentification est révolue. Bienvenue dans l'ère de la **Preuve Cryptographique**.
 
@@ -57,7 +57,7 @@ graph TD
 ```
 
 ### 1. Genèse sur le Device (The Proof)
-Contrairement aux MDM classiques où le serveur "pousse" une config, ici c'est le terminal qui **initie** sa propre demande d'existence.
+Contrairement aux M classiques où le serveur "pousse" une config, ici c'est le terminal qui **initie** sa propre demande d'existence.
 - L'application Mobi-Kiosk génère une empreinte unique (Hardware ID + Timestamp + Challenge).
 - Cette empreinte est **chiffrée** immédiatement avec la Clé Publique du Serveur (embarquée dans l'APK).
 - **Résultat** : Un fichier binaire `.mkconfig` totalement illisible pour quiconque sauf le serveur.
@@ -90,7 +90,7 @@ Votre flotte n'est pas une liste, c'est un organisme vivant.
 *   **Métriques Instantanées** : Batterie, Stockage, Signal... Anticipez les pannes avant qu'elles n'arrivent.
 
 ### 2. "Organization" : Notre Arme Secrète 🚀
-C'est ici que nous laissons la concurrence loin derrière. La plupart des solutions MDM vous offrent des "Groupes" à plat. **Mobi-Kiosk réinvente la structure fractale.**
+C'est ici que nous laissons la concurrence loin derrière. La plupart des solutions EMM/MDM/UEM vous offrent des "Groupes" à plat. **Mobi-Kiosk réinvente la structure fractale.**
 
 *   **Structure Infinie** : Créez une hiérarchie qui matche *réellement* votre entreprise.
     *   *Monde > France > Paris > Boutique Champs-Élysées > Rayon Homme.*
