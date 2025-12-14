@@ -57,7 +57,7 @@ graph TD
 ```
 
 ### 1. Genèse sur le Device (The Proof)
-Contrairement aux M classiques où le serveur "pousse" une config, ici c'est le terminal qui **initie** sa propre demande d'existence.
+Contrairement aux MDM ou EMM classiques où le serveur "pousse" une config, ici c'est le terminal qui **initie** sa propre demande d'existence.
 - L'application Mobi-Kiosk génère une empreinte unique (Hardware ID + Timestamp + Challenge).
 - Cette empreinte est **chiffrée** immédiatement avec la Clé Publique du Serveur (embarquée dans l'APK).
 - **Résultat** : Un fichier binaire `.mkconfig` totalement illisible pour quiconque sauf le serveur.
