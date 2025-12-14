@@ -81,7 +81,7 @@ Le serveur reçoit le fichier .mkconfig chiffré.
 
 ## 🔮 L'Expérience Mobi-Kiosk : Au delà du EMM
 
-Brisez les chaînes des déploiements lourds et coûteux.es standards du marché vous vendent des mois d'intégration et de formation. Mobi-Kiosk offre une maîtrise immédiate et une expérience de pilotage **immersive**.
+Brisez les chaînes des déploiements lourds et coûteux ou les standards du marché vous vendent des mois d'intégration et de formation. Mobi-Kiosk offre une maîtrise immédiate et une expérience de pilotage **immersive**.
  
 ### 1. La Tour de Contrôle (Dashboard 2025)
 Votre flotte n'est pas une liste, c'est un organisme vivant.
