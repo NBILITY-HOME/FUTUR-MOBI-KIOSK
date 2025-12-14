@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📱 MOBI-KIOSK
-### La Révolution EMM à l'ère du Web 3 - Édition 2025
+### La Révolution EMM/MDM/UEM à l'ère du Web 3 - Édition 2025
 
 [![Security](https://img.shields.io/badge/Security-Asymmetric%20Encryption-00C853?style=for-the-badge&logo=lock)](https://github.com/NBILITY-HOME/MOBI-KIOSK)
 [![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge)](https://github.com/NBILITY-HOME/MOBI-KIOSK)
